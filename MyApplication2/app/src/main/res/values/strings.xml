@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DouYinPlay</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="text_view">The Second View</string>
+    <string name="button_quit">Quit</string>
+    <string name="dialog_quit_question">Do you want to Quit the APP?</string>
+    <string name="button_quit_positive">Yes</string>
+    <string name="button_quit_negative">No</string>
+
+</resources>
